@@ -46,5 +46,6 @@ public class Car {
 
     public void setRented(boolean rented) {
         this.rented = rented;
+        System.out.println("test");
     }
 }
